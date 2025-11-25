@@ -4,7 +4,7 @@
 
 <h3>👋 Contributor:</h3>
 
-- 🌱 Durratul Daka Pamungkas: **XI/PPLG-3/8**
+- 🌱 Irman maulana saputra: **XI/PPLG-3/12**
 
 <h3>✅ Features</h3>
 
