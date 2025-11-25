@@ -18,18 +18,18 @@
 <h3>📷 Pictures</h3>
 
 <h5>Home Page</h5>
-<img src="images/Home.jpg" alt="Home Page" />
+<img src="images/home.jpg" alt="Home Page" />
 
 <h5>Create Page</h5>
-<img src="images/Create.jpg" alt="Create Page" />
+<img src="images/edit.jpg" alt="Create Page" />
 
 <h5>Edit Page</h5>
-<img src="images/Edit.jpg" alt="Edit Page" />
-<img src="images/EditDone.jpg" alt="Edit Done" />
+<img src="images/edit.jpg" alt="Edit Page" />
+<img src="images/done_edit.jpg" alt="Edit Done" />
 
 <h5>Delete Confirmation</h5>
-<img src="images/Delete.jpg" alt="Delete" />
-<img src="images/DeleteDone.jpg" alt="Del Done" />
+<img src="images/delete.jpg" alt="Delete" />
+<img src="images/done_delete.jpg" alt="Del Done" />
 
 <h3>📥 Installation</h3>
 
